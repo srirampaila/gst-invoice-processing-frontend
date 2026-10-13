@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Production build outputs
+dist/
+dist-ssr/
+*.local
+
+# Environment variables
+.env
+.env*.local
+
+# Build info and caches
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+
+# Vercel
+.vercel
+
+# Operating System files
+.DS_Store
+Thumbs.db
